@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>小黄的个人博客</title>
-    <link>https://huangshuo111.github.io/</link>
-    <description>Recent content on 小黄的个人博客</description>
+    <title>小黄 on 小黄的个人博客</title>
+    <link>https://huangshuo111.github.io/categories/%E5%B0%8F%E9%BB%84/</link>
+    <description>Recent content in 小黄 on 小黄的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Mar 2023 17:03:17 +0800</lastBuildDate><atom:link href="https://huangshuo111.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 17:03:17 +0800</lastBuildDate><atom:link href="https://huangshuo111.github.io/categories/%E5%B0%8F%E9%BB%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ET引入FGUI说明</title>
       <link>https://huangshuo111.github.io/post/second-post/</link>

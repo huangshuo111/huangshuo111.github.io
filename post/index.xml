@@ -8,21 +8,21 @@
     <language>zh-cn</language>
     <lastBuildDate>Wed, 01 Mar 2023 17:03:17 +0800</lastBuildDate><atom:link href="https://huangshuo111.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试博客二</title>
+      <title>ET引入FGUI说明</title>
       <link>https://huangshuo111.github.io/post/second-post/</link>
       <pubDate>Wed, 01 Mar 2023 17:03:17 +0800</pubDate>
       
       <guid>https://huangshuo111.github.io/post/second-post/</guid>
-      <description>博客二 这是小黄的第二篇博客 测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测</description>
+      <description>引入步骤 在Server下创建“FGUIProject”目录，新建FGUI项目 FGUI中页面完成后，引入烟雨的ET-FGUI代码生成插件，FG</description>
     </item>
     
     <item>
-      <title>测试博客一</title>
+      <title>Animancer学习</title>
       <link>https://huangshuo111.github.io/post/first-post/</link>
       <pubDate>Wed, 01 Mar 2023 15:02:30 +0800</pubDate>
       
       <guid>https://huangshuo111.github.io/post/first-post/</guid>
-      <description>博客一 这是小黄的第一篇博客 测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测</description>
+      <description>使用Animancer的优缺点 优点：无需动画控制器（Animator Controller），不需要我们在Unity编辑器中创建动画控制器并将</description>
     </item>
     
   </channel>
