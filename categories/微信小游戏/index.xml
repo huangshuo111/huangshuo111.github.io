@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>微信小游戏 on 个人博客</title>
+    <link>https://huangshuo111.github.io/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F/</link>
+    <description>Recent content in 微信小游戏 on 个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 02 Mar 2023 10:51:38 +0800</lastBuildDate><atom:link href="https://huangshuo111.github.io/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>转成微信小游戏说明</title>
+      <link>https://huangshuo111.github.io/post/third-post/</link>
+      <pubDate>Thu, 02 Mar 2023 10:51:38 +0800</pubDate>
+      
+      <guid>https://huangshuo111.github.io/post/third-post/</guid>
+      <description>demoFGUI转成微信小游戏步骤 Github下载转换插件（https://github.com/wechat-miniprogram/mi</description>
+    </item>
+    
+  </channel>
+</rss>

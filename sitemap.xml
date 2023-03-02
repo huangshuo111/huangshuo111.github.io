@@ -3,6 +3,41 @@
   
   <url>
     <loc>https://huangshuo111.github.io/categories/</loc>
+    <lastmod>2023-03-02T10:51:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://huangshuo111.github.io/post/</loc>
+    <lastmod>2023-03-02T10:51:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://huangshuo111.github.io/</loc>
+    <lastmod>2023-03-02T10:51:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://huangshuo111.github.io/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2023-03-02T10:51:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://huangshuo111.github.io/post/third-post/</loc>
+    <lastmod>2023-03-02T10:51:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://huangshuo111.github.io/categories/et/</loc>
     <lastmod>2023-03-01T17:03:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -16,28 +51,14 @@
   </url>
   
   <url>
-    <loc>https://huangshuo111.github.io/post/</loc>
-    <lastmod>2023-03-01T17:03:17+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://huangshuo111.github.io/categories/%E5%B0%8F%E9%BB%84/</loc>
-    <lastmod>2023-03-01T17:03:17+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://huangshuo111.github.io/</loc>
-    <lastmod>2023-03-01T17:03:17+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://huangshuo111.github.io/post/first-post/</loc>
+    <lastmod>2023-03-01T15:02:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://huangshuo111.github.io/categories/unity/</loc>
     <lastmod>2023-03-01T15:02:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
